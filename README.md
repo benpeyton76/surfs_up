@@ -1,5 +1,5 @@
 # ***Surfs Up***
-## ***Overview***
+## ***Overview:***
 
 The purpose of the Module 9 challenge is to use a SQLite database that contains weather conditions in Oahu, Hawaii. The premise behind this challenge is to convince an investor to invest into a surf board shop that sells ice cream. The shop, Surf n' Shake, will theoretically sell surf boards and ice cream through the entire year. However, the investor is cautious becuase he has previously invested in businesses with the same concept only to fail due to weather conditions. We have already provided the precipitation data we found from our SQLite database. He now wants to see the temperature fluctuation in Oahu in the months of Juen and December. We will need to provide a statisical weather analysis in order to convince our investor that opening Surf N' Shake on Oahu is will be a successful and profitable investment.
 
